@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="TextAppearance.Sample.Headline6" parent="TextAppearance.MaterialComponents.Headline6">
+        <item name="fontFamily">sans-serif-black</item>
+    </style>
+
+    <style name="TextAppearance.Sample.Subtitle2" parent="TextAppearance.MaterialComponents.Subtitle2">
+        <item name="fontFamily">monospace</item>
+    </style>
+
+    <style name="TextAppearance.Sample.Body2" parent="TextAppearance.MaterialComponents.Body2">
+        <item name="fontFamily">serif-monospace</item>
+    </style>
+
+</resources>
